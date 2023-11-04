@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Cookie&family=Pacifico&family=Playfair+Display&display=swap");
+
+:root {
+  font-family: "Cookie", "Pacifico" Arial, Helvetica, sans-serif, cursive;
+}
+
+.navbar-brand {
+  font-family: "Pacifico", cursive;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #d6a862;
+}
+
+.jumbotron h1 {
+  font-family: "Pacifico", cursive;
+  padding-bottom: 10px;
+}
+
+.jumbotron p {
+  font-family: "Playfair Display", serif;
+}
+
+#Testimony {
+  background-color: #d6a862;
+  font-family: "Playfair Display", serif;
+}
+
+svg{
+  transform: translateY(1px);
+}
+
+section {
+  padding-top: 5rem;
+  font-family: "Playfair Display", serif;
+}
+
+#ContactMe .container {
+  width: 300px;
+  margin: 50px auto;
+  font-family: "Playfair Display", serif;
+}
+
+
+
+#ContactMe .send-button-wa{
+  width: 100%;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor:pointer;
+}
+#ContactMe .send-button-ig {
+  width: 100%;
+  padding: 10px;
+  background: linear-gradient(to right, #833AB4, #FD1D1D);
+  color: white;
+  border: none;
+  cursor:pointer;
+}
+
+#footer{
+  background-color: #d6a862;
+}
